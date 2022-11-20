@@ -121,11 +121,11 @@ endmodule
 
 ### MULTIPLEXER
 
-![output](M_tt.png)
+![output](M_TT.png)
 
 ### DEMULTIPLEXER
 
-![output](D_tt.png)
+![output](D_TT.png)
 
 ### RESULTS 
 Hence 4x1 Multiplexer and 1x4 Demultiplexer is been implemented and verified using verilog programming and its output are validated.
