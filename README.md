@@ -107,10 +107,10 @@ endmodule
 
 ### MULTIPLEXER
 
-![output](M_td1.png)
-![output](M_td2.png)
-![output](M_td3.png)
-![output](M_td4.png)
+![output](M_Td1.png)
+![output](M_Td2.png)
+![output](M_Td3.png)
+![output](M_Td4.png)
 
 ### DEMULTIPLEXER
 
